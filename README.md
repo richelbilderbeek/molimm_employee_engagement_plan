@@ -20,13 +20,17 @@ and productivity.
 
  * Thinking 'I (the PI) do a great job already' may 
    not be shared by the employees
+ * The employees may feel engaged with the group, 
+   but not with the university
 
 ## Opportunities
 
+ * Measure the employee engagement, separated by level, i.e. MOLIMM and RuG. 
  * Prove that MOLIMM does an awesome job, by doing an anonymous survey,
    held among and organized by the postdocs/PhDs. Do this every half year.
    Publish the results om a website, regardless of the findings. Prove that
-   there is improvement or a stable high level. Show that plot as well! 
+   there is improvement or a stable high level to the group. 
+   Show that plot as well! Seperarate this for MOLIMM and Rug
 
 Example:
 
