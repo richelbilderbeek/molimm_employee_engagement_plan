@@ -67,11 +67,15 @@ Employee engagement is reportedly low.
 High employee engagement is an important factor for employee well-being
 and productivity.
 
-Here are the results of the 2019 survey (I've edited the picture to only show
-RuG results, raw image can be found [here](results_2019.png), full survey in
-the 'results' folder).
+Here are the results of the 2019 survey:
 
 ![Results 2019](results_2019_zoom.png)
+
+Note that I've edited the picture to only show
+RuG results, raw image can be found [here](results_2019.png), 
+full survey in the 'results' folder or [this PDF](results_2019.pfd).
+The columns are: GELIFES, Previous survey, FSE, Benchmark universities,
+Rijksuniversiteit Groningen.
 
 ### Informally done right already
 
