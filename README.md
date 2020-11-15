@@ -1,9 +1,22 @@
 # molimm_employee_engagement_plan
 
-My notes and suggestions for a MOLIMM employee engagement plan.
+Survey to measure MOLIMM employee engagement.
 
-https://dilbert.com/strip/2009-11-25
-https://dilbert.com/strip/2014-3-17
+![https://dilbert.com/strip/2009-11-25](dt091125.gif)
+![https://dilbert.com/strip/2014-3-17](dt140317.gif)
+
+## Timeline
+
+Date              |Goal
+------------------|------------------------------------------------------------------------------------
+Tuesday 2020-11-17|Agree on this schedule
+Tuesday 2020-11-24|Finish proposal survey questions
+Friday  2020-11-27|Informally ask group to add/modify on survey questions, before Sunday Dec 6th
+Monday  2020-11-30|Formally ask group to add/modify survey questions, before Sunday Dec 6th
+Monday  2020-12-07|Final version of survey, send to PI for approval, before Thursday Dec 10th 23:59
+Friday  2020-12-11|Post official survey online, announce by email, announce informally
+Monday  2020-12-14|Announce formally to fill in survey, before Sunday Dec 20th 23:59
+Monday  2020-12-21|Put results online, share with group
 
 ## Bigger context
 
@@ -25,20 +38,8 @@ and productivity.
    not be shared by the employees
  * The employees may feel engaged with the group, 
    but not with the university
- * Employee engagement may be irrelevant
 
 ## Opportunities
-
-### Scenario 1: scientific literature
-
- * Employee engagement may be the latest management fad [1],
-   and there is no academic agreement on what is exactly [2],
-   therefore no idea what the costs/benefits are
- * Note there are some studies that do claim some benefits,
-   but some are disputed
- * Say so, to stop others from wasting their time as well
-
-### Scenario 2: hop on the bandwagon
 
  * Measure the employee engagement, separated by level, i.e. MOLIMM and RuG. 
  * Prove that MOLIMM does an awesome job, by doing an anonymous survey,
@@ -51,7 +52,6 @@ Example:
 
  * [Raw results](https://github.com/djog/dojo/blob/master/Evaluaties/20200625/Resultaten.md)
  * [Plot](https://github.com/djog/dojo/blob/master/Evaluaties/Evaluaties_scatter.png)
-
 
 ## References
 
