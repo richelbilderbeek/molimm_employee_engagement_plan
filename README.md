@@ -33,8 +33,31 @@ These are just ideas for now
 split up in two levels, MOLIMM and RuG. In this way, we can measure if
 MOLIMM employee engagement is significantly higher than towards the RuG.
 
+These are:
+
+ * I am satisfied with MOLIMM as an organisation
+ * I am proud of MOLIMM
+ * I feel that I fit at MOLIMM
+ * I support MOLIMM's objectives
+ * I feel that I am appreciated by MOLIMM
+
+ * I am satisfied with the UG as an organisation
+ * I am proud of the UG
+ * I feel that I fit at the UG
+ * I support the UG's objectives
+ * I feel that I am appreciated by the UG
+
 Additionally, I suggest to add more open questions, such as to give suggestions. 
 In this way, we can already engage our colleagues in loving our group even more.
+These are just the same as the questions above, but open.
+
+Suggestions:
+
+ * What could the PI change to be more satisfied with MOLIMM as an organisation
+ * What could the PI change to be more proud of MOLIMM
+ * What could the PI change to feel a better with MOLIMM
+ * What could the PI change to imncrease your support for MOLIMM's objectives
+ * What could the PI change to feel more appreciated within MOLIMM
 
 ## Older notes
 
