@@ -7,6 +7,10 @@ Survey to measure MOLIMM employee engagement.
 
 ## Timeline
 
+```
+Just a proposal for now
+```
+
 Date              |Goal
 ------------------|------------------------------------------------------------------------------------
 Tuesday 2020-11-17|Agree on this schedule
@@ -18,13 +22,28 @@ Friday  2020-12-11|Post official survey online, announce by email, announce info
 Monday  2020-12-14|Announce formally to fill in survey, before Sunday Dec 20th 23:59
 Monday  2020-12-21|Put results online, share with group
 
-## Bigger context
+## Survey
+
+```
+These are just ideas for now
+```
+
+@richelbilderbeek: I propose to use exactly the same questions as the RuG survey,
+split up in two levels, MOLIMM and RuG. In this way, we can measure if
+MOLIMM employee engagement is significantly higher than towards the RuG.
+
+Additionally, I suggest to add more open questions, such as to give suggestions. 
+In this way, we can already engage our colleagues in loving our group even more.
+
+## Older notes
+
+### Bigger context
 
 Employee engagement is reportedly low, especially among PhD students.
 High employee engagement is an important factor for employee well-being
 and productivity.
 
-## Informally done right already
+### Informally done right already
 
  * PI always ask employee's for compliments, complaints, feedback 
    at the end of every meeting
@@ -32,14 +51,14 @@ and productivity.
  * PI listens to employees, 
    employees are observably influential in the group weekly schedule
 
-## Informally overlooked things
+### Informally overlooked things
 
  * Thinking 'I (the PI) do a great job already' may 
    not be shared by the employees
  * The employees may feel engaged with the group, 
    but not with the university
 
-## Opportunities
+### Opportunities
 
  * Measure the employee engagement, separated by level, i.e. MOLIMM and RuG. 
  * Prove that MOLIMM does an awesome job, by doing an anonymous survey,
