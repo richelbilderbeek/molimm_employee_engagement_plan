@@ -40,9 +40,15 @@ In this way, we can already engage our colleagues in loving our group even more.
 
 ### Bigger context
 
-Employee engagement is reportedly low, especially among PhD students.
+Employee engagement is reportedly low.
 High employee engagement is an important factor for employee well-being
 and productivity.
+
+Here are the results of the 2019 survey (I've edited the picture to only show
+RuG results, raw image can be found [here](results_2019.png), full survey in
+the 'results' folder).
+
+![Results 2019](results_2019_zoom.png)
 
 ### Informally done right already
 
