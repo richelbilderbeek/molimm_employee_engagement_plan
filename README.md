@@ -7,10 +7,6 @@ Survey to measure MOLIMM employee engagement.
 
 ## Timeline
 
-```
-Just a proposal for now
-```
-
 Date                           |Goal
 -------------------------------|------------------------------------------------------------------------------------
 Tuesday 2020-11-17 17:00-17:30 |Meeting to decide on a timeline
