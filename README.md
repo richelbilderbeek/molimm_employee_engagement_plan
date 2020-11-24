@@ -46,18 +46,7 @@ These are:
 Additionally, I suggest to add more open questions, such as to give suggestions. 
 In this way, we can already engage our colleagues in loving our group even more.
 
-
-Suggestions 1 (short, useful, awesome):
-
  * What can be improved about MOLIMM?
-
-Suggestions 2 (these are just the same as the questions above, but open):
-
- * What could the PI change to be more satisfied with MOLIMM as an organisation
- * What could the PI change to be more proud of MOLIMM
- * What could the PI change to feel a better with MOLIMM
- * What could the PI change to imncrease your support for MOLIMM's objectives
- * What could the PI change to feel more appreciated within MOLIMM
 
 ## Older notes
 
