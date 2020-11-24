@@ -9,8 +9,8 @@ Survey to measure MOLIMM employee engagement.
 
 Date                           |Goal
 -------------------------------|------------------------------------------------------------------------------------
-Tuesday 2020-11-17 17:00-17:30 |Meeting to decide on a timeline
-Tuesday 2020-11-24 17:00-17:30 |Finish proposal survey questions
+Tuesday 2020-11-17 17:00-17:30 | :heavy_check_mark: Meeting to decide on a timeline
+Tuesday 2020-11-24 17:00-17:30 | :white_check_mark: Finish proposal survey questions
 Friday  2020-11-27 16:00-17:00 |Informally ask group to add/modify on survey questions, before Sunday Dec 6th
 Monday  2020-11-30 10:00-11:00 |Formally ask group to add/modify survey questions, before Sunday Dec 6th
 Monday  2020-12-07 10:00-11:00 |Final version of survey, send to PI for approval, before Thursday Dec 10th 23:59
