@@ -21,7 +21,7 @@ Monday  2020-12-21 10:00-11:00 |Share results with group
 
 ## Survey
 
-![](survey)
+![](survey.png)
 
 ## Survey in plain-text
 
