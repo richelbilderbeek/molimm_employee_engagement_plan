@@ -21,31 +21,22 @@ Monday  2020-12-21 10:00-11:00 |Share results with group
 
 ## Survey
 
-```
-These are just ideas for now
-```
+![](survey)
 
-@richelbilderbeek: I propose to use exactly the same questions as the RuG survey,
-split up in two levels, MOLIMM and RuG. In this way, we can measure if
-MOLIMM employee engagement is significantly higher than towards the RuG.
+## Survey in plain-text
 
-These are:
-
- * I am satisfied with MOLIMM as an organisation
- * I am proud of MOLIMM
- * I feel that I fit at MOLIMM
- * I support MOLIMM's objectives
- * I feel that I am appreciated by MOLIMM
+Questions are:
 
  * I am satisfied with the UG as an organisation
  * I am proud of the UG
  * I feel that I fit at the UG
  * I support the UG's objectives
  * I feel that I am appreciated by the UG
-
-Additionally, I suggest to add more open questions, such as to give suggestions. 
-In this way, we can already engage our colleagues in loving our group even more.
-
+ * I am satisfied with MOLIMM as an organisation
+ * I am proud of MOLIMM
+ * I feel that I fit at MOLIMM
+ * I support MOLIMM's objectives
+ * I feel that I am appreciated by MOLIMM
  * What can be improved about MOLIMM?
 
 ## Older notes
